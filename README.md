@@ -4,10 +4,10 @@ Where: [Shanahan 3485 (Grace Hopper Conference room)](https://www.hmc.edu/facili
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
 
-You will learn the minimal but most useful tools for exploring datasets using pandas and then gently introduced to neural networks. You will also learn various architectures such as Convolution Neural Networks (CNN), Recurrent Neural Networks (RNN), transformer-based models, etc. and apply them to real-world textual and image datasets.
+You will learn the minimal but most useful tools for exploring datasets using pandas and then be gently introduced to neural networks. You will also learn various architectures such as Convolution Neural Networks (CNN), Recurrent Neural Networks (RNN), transformer-based models, etc., and apply them to real-world textual and image datasets.
  
  
-Please register using [this Google form](https://forms.gle/5nrYjUQQt1q1Dgo67) to save your seat. It is highly recommend to attend the workshop in-person as you will be coding in groups and participating in discussions, but there is an option to join remotely via Zoom. The Zoom link and the recordings for each session will be shared with the registered participants. Please have a look at the topics to be covered below. You are free to attend some of the sessions while skipping others if you are already familiar with certain topics.
+Please register using [this Google form](https://forms.gle/5nrYjUQQt1q1Dgo67) to save your seat. It is highly recommended to attend the workshop in-person as you will be coding in groups and participating in discussions, but there is an option to join remotely via Zoom. The Zoom link and the recordings for each session will be shared with the registered participants. Please have a look at the topics to be covered below. You are free to attend some of the sessions while skipping others if you are already familiar with certain topics.
 
 The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-On-Workshop-In-Machine-Learning) for each session.
 
