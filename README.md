@@ -12,12 +12,12 @@ Please register using [this Google form](https://forms.gle/5nrYjUQQt1q1Dgo67) 
 The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-On-Workshop-In-Machine-Learning) for each session.
 
 #### Pre-requisites:
-1.  Some familiarity with Python
+1. Some familiarity with Python
 2. Basics of Probability and Statistics
 3. Basics of Calculus
 4. Basics of Linear Algebra
 
-[Here](https://forms.gle/k3sidBtcAikQziQU7) is an optional quiz to brush up your Python skills before the workshop.
+[Here is an optional quiz](https://forms.gle/k3sidBtcAikQziQU7) to brush up your Python skills before the workshop.
 
 Please [download and install Anaconda with Python 3.8 version](https://www.anaconda.com/products/individual#Downloads) on your laptop ahead of the workshop.  
 
@@ -64,7 +64,7 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * Convolution Neural Network architecture (CNN)
 * Training a CNN model on CIFAR-10 dataset
 
-#### 7. Recurrent Neural Networks and Transformer models(Thursday, Nov 10th, 2022)
+#### 7. Recurrent Neural Networks and Transformer models (Thursday, Nov 10th, 2022)
 * Recurrent Neural Networks (RNN)
 * Transformer models
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
