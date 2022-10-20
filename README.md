@@ -32,9 +32,6 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * Detecting and filling missing values
 * Regular expressions for text mining
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]
-
-
 #### 2. More on `pandas` and Logistic regression (Tuesday, Oct 25th, 2022)
 * More on `pandas` - Groupby operations
 * Binary classification algorithm: Logistic Regression
