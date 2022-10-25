@@ -34,17 +34,16 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 
 #### 2. More on `pandas` and Logistic regression (Tuesday, Oct 25th, 2022)
 * More on `pandas` - Groupby operations
-* Binary classification algorithm: Logistic Regression
-* Underfitting and Overfitting to the training dataset; Model cross-validation
+* One hot encoding for categorical features
+* Perceptron - the simplest neural network
+* An exercise on implementing AND and OR gates using Perceptron by trial-and-error 
 
 #### 3. Natural language processing (NLP) concepts (Thursday, Oct 27th, 2022)
 * Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, using word n-grams, etc.
 * Application of Logistic Regression and NLP concepts using `scikit-learn` on the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) to predict the sentiment (positive or negative) of the movie reviews
-* One hot encoding for categorical features
 
 #### 4. A Gentle Introduction to Neural Networks (Tuesday, Nov 1st, 2022)
 * Neural networks: Building the intuition of the architecture and the iterative learning process  
-* An exercise on implementing AND, OR and XOR gates with neural networks by trial-and-error
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
 * Training a neural network on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for sentiment analysis
